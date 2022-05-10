@@ -1,0 +1,19 @@
+{
+    "name": "jfchicken/gallery",
+    "description": "simple copy of gallery view from flickr to laravel",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "JC Cruz",
+            "email": "jcruz21@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "JFChicken\\gallery\\": "src/"
+        }
+    },
+    "require": {}
+}
